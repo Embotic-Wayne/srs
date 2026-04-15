@@ -1,5 +1,3 @@
-
-https://roadmap.sh/projects/log-archive-tool
 # Bash Projects
  Linux Bash projects
 
